@@ -75,6 +75,8 @@ class MainActivity : ComponentActivity() {
               }
 
               val playlist = arrayOf("Kelvin momo, Ciza,Heaven only knowa,Ngeke n'Believe")
+              val rating = arrayOf("5,4,5,5,5")
+              val comments = arrayOf("Chill song, Best dance song,memories,relaxed song")
               Text(text="playlist by $Bestofsounds is:")
               Text(text=playlist)
           }
