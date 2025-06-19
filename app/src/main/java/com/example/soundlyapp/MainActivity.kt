@@ -84,6 +84,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 private fun Any.Text(text: Array<String>) {
 
 }
